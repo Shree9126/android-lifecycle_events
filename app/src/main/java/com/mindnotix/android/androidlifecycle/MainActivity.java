@@ -1,4 +1,4 @@
-package com.sam_chordas.android.androidlifecycle;
+package com.mindnotix.android.androidlifecycle;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

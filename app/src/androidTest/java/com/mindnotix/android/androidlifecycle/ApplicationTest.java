@@ -1,4 +1,4 @@
-package com.sam_chordas.android.androidlifecycle;
+package com.mindnotix.android.androidlifecycle;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

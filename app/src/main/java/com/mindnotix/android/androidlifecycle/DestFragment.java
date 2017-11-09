@@ -1,4 +1,4 @@
-package com.sam_chordas.android.androidlifecycle;
+package com.mindnotix.android.androidlifecycle;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * Created by sam_chordas on 8/27/15.
+ * Created by mindnotix on 8/27/15.
  */
 public class DestFragment extends Fragment {
     public static final String LOG_TAG = DestFragment.class.getSimpleName();
